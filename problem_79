@@ -1,0 +1,4 @@
+To solve this problem use pen and paper:
+
+When examining all possible digits (0, 1, 2, 3, 6, 7, 8, 9), we observe a pattern. Digit 7 consistently appears first, while digit 0 consistently appears last. Digit 3 is always found before or immediately after 7. Following 3, we find digit 1. Digit 9 consistently appears last but precedes 0. The positions of digits 2 and 8 are flexible. Given this pattern, the shortest possible sequence is 73162890.
+
